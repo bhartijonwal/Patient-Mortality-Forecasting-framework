@@ -2,9 +2,9 @@
 
 🛠 Tools & Technologies
 
-MS Excel — Data cleaning and preprocessing
+[Dataset Used]([https://example.com/dataset](https://github.com/bhartijonwal/Patient-Mortality-Forecasting-framework/commit/ff5fd515d04d31bf164c5180dd5dbf735471809b)) — Data cleaning and preprocessing
 
-SQL (PgAdmin) — Data analysis and KPI extraction
+[SQL Analysis (Code)]([https://example.com/sql-code](https://github.com/bhartijonwal/Patient-Mortality-Forecasting-framework/blob/main/Patient%20Mortality%20Forecasting%20framework.sql)) — Data analysis and KPI extraction
 
 Visualization (Power BI) — Insight presentation
 
