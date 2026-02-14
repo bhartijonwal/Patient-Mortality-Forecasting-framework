@@ -19,21 +19,38 @@ Hospitals often struggle to proactively identify high-risk patients during admis
 This project aims to leverage structured data analysis to uncover mortality drivers and provide data-backed insights for clinical decision-making.
 
 📊 Key Performance Indicators (KPIs)
-Clinical Risk Metrics
+Clinical Risk Metric 
+
+<img width="137" height="50" alt="image" src="https://github.com/user-attachments/assets/069e0cf1-9ea1-4eb9-ae15-0d2fb2c5c130" />
 
 Overall Mortality Rate
 
+<img width="112" height="51" alt="image" src="https://github.com/user-attachments/assets/9e38312b-762b-411a-a610-9b456d76c8f7" />
+
 Mortality Distribution by Age Group
+
+<img width="185" height="105" alt="image" src="https://github.com/user-attachments/assets/b56188b5-8864-462f-8b9d-939b419e6870" />
 
 Mortality by Comorbidity Type
 
+<img width="710" height="48" alt="image" src="https://github.com/user-attachments/assets/e1b3d130-c71e-4328-8934-7228c76bf2cb" />
+
 Operational Efficiency Metrics
+
+<img width="244" height="156" alt="image" src="https://github.com/user-attachments/assets/a3e4b59d-f954-4489-b368-1dda02b6de69" />
 
 Mortality by ICU Admission Source
 
+<img width="288" height="140" alt="image" src="https://github.com/user-attachments/assets/33c2d549-b6c2-4d56-9269-96454b1a2b78" />
+
 Mortality by ICU Type
 
+<img width="278" height="155" alt="image" src="https://github.com/user-attachments/assets/56f0b8c9-0322-4eb0-9516-cef727e1b800" />
+
 Mortality by ICU Stay Duration
+
+<img width="362" height="154" alt="image" src="https://github.com/user-attachments/assets/e50c17bd-88a8-40e2-8f62-09f854aa0476" />
+
 
 🔍 Analytical Approach
 
@@ -50,6 +67,7 @@ Generated KPI-driven insights to assess mortality risks
 📈 Key Insights
 
 Mortality risk increased significantly among elderly patients, particularly those aged 65 and above
+<img width="535" height="47" alt="image" src="https://github.com/user-attachments/assets/79556822-77d2-4cff-91d4-e83f781cc58c" />
 
 Comorbid conditions such as diabetes and immunosuppression showed strong correlation with higher mortality
 
