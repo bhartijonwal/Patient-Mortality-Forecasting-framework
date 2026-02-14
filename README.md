@@ -1,6 +1,6 @@
 # 🏥 Patient Mortality Forecasting Framework
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies - MS Excel, PgAdmin, Power BI
 
 [Dataset Used](https://github.com/bhartijonwal/Patient-Mortality-Forecasting-framework/commit/ff5fd515d04d31bf164c5180dd5dbf735471809b) — Data cleaning and preprocessing
 
