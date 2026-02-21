@@ -6,7 +6,7 @@
 
 [SQL Analysis (Code)](https://github.com/bhartijonwal/Patient-Mortality-Forecasting-framework/blob/main/Patient%20Mortality%20Forecasting%20framework.sql) — Data analysis and KPI extraction
 
-[Visualization (Power BI)](https://github.com/bhartijonwal/Patient-Mortality-Forecasting-framework/blob/main/Screenshot%202026-02-21%20232257.png)
+[Visualization (Power BI)](https://github.com/bhartijonwal/Patient-Mortality-Forecasting-framework/blob/main/Screenshot%202026-02-21%20232936.png)
  — Insight presentation
 
 📌 Project Overview
